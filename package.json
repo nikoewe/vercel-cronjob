@@ -1,6 +1,6 @@
 {
   "name": "vercel-cronjob",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Standalone Vercel cron job runner — replicates Vercel's cron behavior for non-Vercel deployments",
   "type": "module",
   "main": "./dist/index.js",
